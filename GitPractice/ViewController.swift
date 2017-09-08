@@ -10,6 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    func testNewUserPush() {
+        print("This is from new user!!")
+    }
     func sayHi() {
         print("Hi !")
     }
